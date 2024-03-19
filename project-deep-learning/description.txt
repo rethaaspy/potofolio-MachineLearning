@@ -1,0 +1,1 @@
+Forecasting project utilizing deep learning models (RNN, LSTM, GRU) and Support Vector Regression (SVR) techniques with the Bali dataset spanning from 2015 to 2022 (Bali_2015-2022.csv).
